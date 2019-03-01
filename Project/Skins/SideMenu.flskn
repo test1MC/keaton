@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
-  Version="2"
+  Version="3"
   SkinType="Component"
   Comment="HTML5 Menu skin"
   ComponentType="Menu"
@@ -84,4 +84,5 @@
       </Medium>
     </Styles>
   </Stylesheet>
+  <Strings />
 </CatapultSkin>
