@@ -8,7 +8,7 @@
 /Analyzer
 /FileSync
 /Project/Users
-#gitignore
+#.gitignore
 /.svn
 **/Thumbs.db
 
