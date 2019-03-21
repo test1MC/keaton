@@ -1,9 +1,10 @@
-/*<meta />*/
+﻿/*<meta />*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700');
 
 body
 {
 	color: #404040;
-	font-family: Arial, Avenir, Myriad;
+	font-family: 'Open Sans', algerian;
 	font-size: 1em;
 	line-height: 1.7em;
 }

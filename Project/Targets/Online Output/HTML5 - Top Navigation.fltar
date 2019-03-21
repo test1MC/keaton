@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target"
@@ -12,7 +12,8 @@
   ResultsPerPage="10"
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
   ConditionTagExpression="include[General.Online]exclude[General.PDF]"
-  DefaultUrl="/Content/Home.htm">
+  DefaultUrl="/Content/Home.htm"
+  UseDeviceWidth="true">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
